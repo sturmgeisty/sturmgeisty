@@ -8,7 +8,7 @@ You may be familiar with my username from various projects created throughout my
 - useful modifications or addons for games such Roblox 
 - various open-source projects I've released or contributed to
 
-Throughout my programming experience since 2017, I've taken immense pride in the countless hours dedicated to crafting software that has brought smiles to faces worldwide. 😊
+Throughout my programming experience since 2018, I've taken immense pride in the countless hours dedicated to crafting software that has brought smiles to faces worldwide. 😊
 
 <sub>*If you've had the opportunity to utilize any software I've created, you've greatly influenced my programming journey!*</sub>
 
@@ -17,7 +17,7 @@ Throughout my programming experience since 2017, I've taken immense pride in the
 I'm currently developing roblox games with my friends just for fun, wishing for them to became big. I am a good designer when it comes
 to making ui, especially in roblox. All my work is visible on my github profile. If you can't find it, then add me on discord!
 
-<sub>*Last updated: February 24, 2024*</sub>
+<sub>*Last updated: April 26, 2024*</sub>
 
 ### :hammer: Technologies
 
