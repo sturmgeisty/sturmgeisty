@@ -5,12 +5,12 @@
 You may be familiar with my username from various projects created throughout my coding journey which resided in the communities i've been in:
 
 - creating free and useful addons for projects
-- useful modifications or addons for games such Roblox 
+- useful modifications or addons for games such as: Roblox, Minecraft 
 - various open-source projects I've released or contributed to
 
-Throughout my programming experience since 2018-2019, I've taken immense pride in the countless hours dedicated to crafting software that has brought smiles to faces worldwide. 😊
+Throughout my programming experience since 2019-2020, I've taken immense pride in the countless hours dedicated to crafting software that has brought joy to people using it.
 
-<sub>*If you've had the opportunity to utilize any software I've created, you've greatly influenced my programming journey!*</sub>
+<sub>*If you've had the opportunity to utilize any project I've created, you've probably helped me fix vulnerabilities and I thank you for that!*</sub>
 
 ### :dart: Current Focus
 
@@ -32,11 +32,6 @@ Wishing for my roblox game studio to become big, working hard everyday.
 ![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 
-#### Operating Systems
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-
 #### Runtimes
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -52,9 +47,6 @@ Wishing for my roblox game studio to become big, working hard everyday.
 
 #### Hosting Providers
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-
-#### Databases
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### Editors/IDEs
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
